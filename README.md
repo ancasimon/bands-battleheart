@@ -28,6 +28,13 @@ We used CSS Flexbox for organizing our data, such as the biography cards, and Fo
 ###### Discography Page
 ![Discography Page](./img_band_personal/disc_page.png)
 
+## Features
+1. On the Bio page, users can see a brief biography of the band and then hover over the picture of each band member to see his or her own biography.
+1. On the Fans page, users can click the Join button to access a form they can fill out in order to join the band's newsletter.
+1. On the Tour Dates page, users can see the band's upcoming concerts' dates and locations.
+1. On the Discography page, users can see a list of the albums the band has released and hover over each album cover to see a list of the songs included in it.
+
+
 ## Technologies & Tools
 Bootstrap, CSS, Github, HTML5, Vanilla Javascript
 
