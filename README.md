@@ -49,3 +49,6 @@ Bootstrap, CSS, Github, HTML5, Vanilla Javascript
 1. On your command line, run `hs -p 9999`.
 1. In your browser, navigate to `http://localhost:9999`.
 
+## Firebase Deployment
+This project has been deployed with Firebase. 
+You can access it [here](https://battleheart-475aa.firebaseapp.com/). 
