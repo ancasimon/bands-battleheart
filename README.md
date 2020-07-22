@@ -3,7 +3,7 @@
 [Check it out here!](https://battleheart-475aa.firebaseapp.com/)
 
 ## Description
-This project was our cohort’s first group project and our introduction to using Github for project planning, planning out development tickets, writing user stories and development notes, and tracking each ticket throughout the development cycle. This project was also an exercise in managing different team members’ code in the same codebase and handling the conflicts that inevitably came up throughout the project. For this project, we built a website for a music band, using Bootstrap, CSS, HTML, and Javascript, and learning how to manage calls for multiple HTML pages in a single Javascript file.
+This project was our cohort’s first group project and our introduction to using Github for project planning, planning out development tickets, writing user stories and development notes, and tracking each ticket throughout the development cycle. This project was also an exercise in managing different team members’ code in the same codebase and handling the conflicts that inevitably came up throughout the project. For this project, we built a website for a music band, using Bootstrap, CSS, HTML, and vanilla JavaScript, and learning how to manage calls for multiple HTML pages in a single JavaScript file.
 
 ## Personal Contribution
 I worked on the Bio site, which displays a brief history of the band and a biography and photo of each band member, as well as on the Fans page. I had fun introducing flip cards for the Bio page and learning about overlaying elements on the Fans page.
@@ -37,8 +37,8 @@ We used CSS Flexbox for organizing our data, such as the biography cards, and Fo
 1. On the Discography page, users can see a list of the albums the band has released and hover over each album cover to see a list of the songs included in it.
 
 
-## Technologies & Tools
-Bootstrap, CSS, Github, HTML5, Vanilla Javascript
+## Tools & Technologies
+Bootstrap, CSS, Github, HTML5, Vanilla JavaScript
 
 ## Contributors
 * [David Everett](https://github.com/davideverett89)
